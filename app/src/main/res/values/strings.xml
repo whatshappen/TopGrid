@@ -6,7 +6,7 @@
     <string name="hello_world">Hello world!</string>
 
     <string name="drawer_btn_rss">频道管理</string>
-    <string name="subscribe_my_category">我的频道</string>
+    <string name="subscribe_my_category">切换栏目</string>
 <string name="subscribe_more_category">更多频道</string>
 <string name="subscribe_manager_category_info">单击增删频道</string>
 <string name="subscribe_manager_category_info_2">单击增删频道，长按拖拽排序</string>

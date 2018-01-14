@@ -49,6 +49,8 @@ public class ChannelActivity extends Activity implements OnItemClickListener{
 	ArrayList<ChannelItem> userChannelList = new ArrayList<ChannelItem>();
 	/** 是否在移动，由于这边是动画结束后才进行的数据更替，设置这个限制为了避免操作太频繁造成的数据错乱。 */	
 	boolean isMove = false;
+	private TextView tv_save;
+
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
@@ -99,19 +101,27 @@ public class ChannelActivity extends Activity implements OnItemClickListener{
                 }
             }
         });
+
+		userAdapter.setOnStartDragingListener(new DragAdapter.OnStartDragingListener() {
+			@Override
+			public void onStartDraging() {
+				tv_save.setVisibility(View.VISIBLE);
+			}
+		});
 	}
 	
 	/** 初始化布局*/
 	private void initView() {
 		userGridView = (DragGrid) findViewById(R.id.userGridView);
 		otherGridView = (OtherGridView) findViewById(R.id.otherGridView);
-		TextView tv_wanc = (TextView) findViewById(R.id.tv_wanc);
-        tv_wanc.setOnClickListener(new View.OnClickListener() {
+		tv_save = (TextView) findViewById(R.id.tv_save);
+		tv_save.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 userAdapter.hideDeleteIcon(true);
                 userAdapter.showDeleteIcon(false);
                 userAdapter.notifyDataSetChanged();
+				tv_save.setVisibility(View.GONE);
             }
         });
 	}

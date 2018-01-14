@@ -56,6 +56,7 @@ public class DragAdapter extends BaseAdapter {
     private OnDelecteItemListener listener;
     private boolean isDeleteing;//是否处于删除状态
     private boolean hideDeleteIcon;
+    private OnStartDragingListener startDragingListener;
 
     public DragAdapter(Context context, List<ChannelItem> channelList, DragGrid dragGrid) {
         this.context = context;
@@ -236,6 +237,8 @@ public class DragAdapter extends BaseAdapter {
     //显示删除键的icon
     public void showDeleteIcon(boolean isDeleteIcon) {
         this.isDeleteIcon = isDeleteIcon;
+        if(startDragingListener!=null)
+            startDragingListener.onStartDraging();
     }
 
     //隐藏删除键
@@ -261,5 +264,14 @@ public class DragAdapter extends BaseAdapter {
     public void setIsDeleteing(boolean isDeleteing) {
 
         this.isDeleteing = isDeleteing;
+    }
+
+    public interface OnStartDragingListener{
+        void onStartDraging();
+    }
+
+    public void setOnStartDragingListener(OnStartDragingListener startDragingListener){
+
+        this.startDragingListener = startDragingListener;
     }
 }

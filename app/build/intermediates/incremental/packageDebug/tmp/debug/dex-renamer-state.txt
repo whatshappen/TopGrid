@@ -1,0 +1,4 @@
+#Sun Jan 14 18:39:40 CST 2018
+base.0=C\:\\Users\\Administrator\\Desktop\\DragChannelManager\\TopNewGrid\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

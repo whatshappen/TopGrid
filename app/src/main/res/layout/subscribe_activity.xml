@@ -55,7 +55,7 @@
                 android:id="@+id/seperate_line"
                 style="@style/subscribe_seperate_line" />
 
-            <com.example.topnewgrid.view.DragGrid
+            <com.whatshappen.topgrid.view.DragGrid
                 android:id="@+id/userGridView"
                 android:layout_width="fill_parent"
                 android:layout_height="wrap_content"
@@ -93,7 +93,7 @@
                     android:layout_marginTop="5dp"
                     android:text="@string/subscribe_more_category" />
 
-                <com.example.topnewgrid.view.OtherGridView
+                <com.whatshappen.topgrid.view.OtherGridView
                     android:id="@+id/otherGridView"
                     android:layout_width="fill_parent"
                     android:layout_height="wrap_content"

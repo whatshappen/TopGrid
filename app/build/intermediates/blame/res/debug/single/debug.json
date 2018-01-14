@@ -1,0 +1,274 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\DragChannelManager\\TopNewGrid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg_low.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.1.aar\\8f6f8e89cfba225c087e05643967992e\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\DragChannelManager\\TopNewGrid\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.1.aar\\8f6f8e89cfba225c087e05643967992e\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\DragChannelManager\\TopNewGrid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_btn_common_normal.9.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\DragChannelManager\\TopNewGrid\\app\\src\\main\\res\\drawable-xhdpi\\btn_common_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\DragChannelManager\\TopNewGrid\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_action.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.1.aar\\8f6f8e89cfba225c087e05643967992e\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\DragChannelManager\\TopNewGrid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.1.aar\\8f6f8e89cfba225c087e05643967992e\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\DragChannelManager\\TopNewGrid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.1.aar\\8f6f8e89cfba225c087e05643967992e\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\DragChannelManager\\TopNewGrid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\DragChannelManager\\TopNewGrid\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\DragChannelManager\\TopNewGrid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.1.aar\\8f6f8e89cfba225c087e05643967992e\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\DragChannelManager\\TopNewGrid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_btn_back_pressed.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\DragChannelManager\\TopNewGrid\\app\\src\\main\\res\\drawable-xhdpi\\btn_back_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\DragChannelManager\\TopNewGrid\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.1.aar\\8f6f8e89cfba225c087e05643967992e\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\DragChannelManager\\TopNewGrid\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow_custom.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.1.aar\\351369e7db3c4e4035478980e9c9dd92\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\DragChannelManager\\TopNewGrid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.1.aar\\8f6f8e89cfba225c087e05643967992e\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\DragChannelManager\\TopNewGrid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_btn_common_disabled.9.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\DragChannelManager\\TopNewGrid\\app\\src\\main\\res\\drawable-xhdpi\\btn_common_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\DragChannelManager\\TopNewGrid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_item_delecte_shape.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\DragChannelManager\\TopNewGrid\\app\\src\\main\\res\\drawable\\item_delecte_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\DragChannelManager\\TopNewGrid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_btn_back_normal.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\DragChannelManager\\TopNewGrid\\app\\src\\main\\res\\drawable-xhdpi\\btn_back_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\DragChannelManager\\TopNewGrid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_back.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\DragChannelManager\\TopNewGrid\\app\\src\\main\\res\\drawable\\btn_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\DragChannelManager\\TopNewGrid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_a_u.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\DragChannelManager\\TopNewGrid\\app\\src\\main\\res\\drawable-xxhdpi\\a_u.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\DragChannelManager\\TopNewGrid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.1.aar\\8f6f8e89cfba225c087e05643967992e\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\DragChannelManager\\TopNewGrid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_a_l.9.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\DragChannelManager\\TopNewGrid\\app\\src\\main\\res\\drawable\\a_l.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\DragChannelManager\\TopNewGrid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_subscribe_item_text_color_night.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\DragChannelManager\\TopNewGrid\\app\\src\\main\\res\\drawable\\subscribe_item_text_color_night.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\DragChannelManager\\TopNewGrid\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_cancel_action.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.1.aar\\351369e7db3c4e4035478980e9c9dd92\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\DragChannelManager\\TopNewGrid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.1.aar\\8f6f8e89cfba225c087e05643967992e\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\DragChannelManager\\TopNewGrid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\DragChannelManager\\TopNewGrid\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\DragChannelManager\\TopNewGrid\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.1.aar\\351369e7db3c4e4035478980e9c9dd92\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\DragChannelManager\\TopNewGrid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.1.aar\\8f6f8e89cfba225c087e05643967992e\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\DragChannelManager\\TopNewGrid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_news_channel_item_selector.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\DragChannelManager\\TopNewGrid\\app\\src\\main\\res\\drawable\\news_channel_item_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\DragChannelManager\\TopNewGrid\\app\\build\\intermediates\\res\\merged\\debug\\layout_subscribe_category_item.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\DragChannelManager\\TopNewGrid\\app\\src\\main\\res\\layout\\subscribe_category_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\DragChannelManager\\TopNewGrid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_a9x.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\DragChannelManager\\TopNewGrid\\app\\src\\main\\res\\drawable-xxhdpi\\a9x.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\DragChannelManager\\TopNewGrid\\app\\build\\intermediates\\res\\merged\\debug\\layout-v16_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.1.aar\\8f6f8e89cfba225c087e05643967992e\\res\\layout-v16\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\DragChannelManager\\TopNewGrid\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.1.aar\\8f6f8e89cfba225c087e05643967992e\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\DragChannelManager\\TopNewGrid\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_lines_media.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.1.aar\\351369e7db3c4e4035478980e9c9dd92\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\DragChannelManager\\TopNewGrid\\app\\build\\intermediates\\res\\merged\\debug\\color_btn_common_text.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\DragChannelManager\\TopNewGrid\\app\\src\\main\\res\\color\\btn_common_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\DragChannelManager\\TopNewGrid\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.1.aar\\8f6f8e89cfba225c087e05643967992e\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\DragChannelManager\\TopNewGrid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.1.aar\\8f6f8e89cfba225c087e05643967992e\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\DragChannelManager\\TopNewGrid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\DragChannelManager\\TopNewGrid\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\DragChannelManager\\TopNewGrid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.1.aar\\8f6f8e89cfba225c087e05643967992e\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\DragChannelManager\\TopNewGrid\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.1.aar\\351369e7db3c4e4035478980e9c9dd92\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\DragChannelManager\\TopNewGrid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.1.aar\\8f6f8e89cfba225c087e05643967992e\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\DragChannelManager\\TopNewGrid\\app\\build\\intermediates\\res\\merged\\debug\\color_subscribe_item_text_color.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\DragChannelManager\\TopNewGrid\\app\\src\\main\\res\\color\\subscribe_item_text_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\DragChannelManager\\TopNewGrid\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_chronometer.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.1.aar\\8f6f8e89cfba225c087e05643967992e\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\DragChannelManager\\TopNewGrid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.1.aar\\8f6f8e89cfba225c087e05643967992e\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\DragChannelManager\\TopNewGrid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\DragChannelManager\\TopNewGrid\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\DragChannelManager\\TopNewGrid\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_custom.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.1.aar\\351369e7db3c4e4035478980e9c9dd92\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\DragChannelManager\\TopNewGrid\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_action.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.1.aar\\351369e7db3c4e4035478980e9c9dd92\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\DragChannelManager\\TopNewGrid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_aab.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\DragChannelManager\\TopNewGrid\\app\\src\\main\\res\\drawable-xxhdpi\\aab.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\DragChannelManager\\TopNewGrid\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.1.aar\\8f6f8e89cfba225c087e05643967992e\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\DragChannelManager\\TopNewGrid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_notification_action_background.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.1.aar\\8f6f8e89cfba225c087e05643967992e\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\DragChannelManager\\TopNewGrid\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.1.aar\\8f6f8e89cfba225c087e05643967992e\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\DragChannelManager\\TopNewGrid\\app\\build\\intermediates\\res\\merged\\debug\\layout_title_bar.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\DragChannelManager\\TopNewGrid\\app\\src\\main\\res\\layout\\title_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\DragChannelManager\\TopNewGrid\\app\\build\\intermediates\\res\\merged\\debug\\layout_subscribe_activity.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\DragChannelManager\\TopNewGrid\\app\\src\\main\\res\\layout\\subscribe_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\DragChannelManager\\TopNewGrid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.1.aar\\8f6f8e89cfba225c087e05643967992e\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\DragChannelManager\\TopNewGrid\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_time.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.1.aar\\8f6f8e89cfba225c087e05643967992e\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\DragChannelManager\\TopNewGrid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.1.aar\\8f6f8e89cfba225c087e05643967992e\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\DragChannelManager\\TopNewGrid\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_media.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.1.aar\\351369e7db3c4e4035478980e9c9dd92\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\DragChannelManager\\TopNewGrid\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_media_custom.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.1.aar\\351369e7db3c4e4035478980e9c9dd92\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\DragChannelManager\\TopNewGrid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_btn_common_pressed.9.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\DragChannelManager\\TopNewGrid\\app\\src\\main\\res\\drawable-xhdpi\\btn_common_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\DragChannelManager\\TopNewGrid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_transparent.9.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\DragChannelManager\\TopNewGrid\\app\\src\\main\\res\\drawable-nodpi\\transparent.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\DragChannelManager\\TopNewGrid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_common.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\DragChannelManager\\TopNewGrid\\app\\src\\main\\res\\drawable\\btn_common.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\DragChannelManager\\TopNewGrid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_tile_bg.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.1.aar\\8f6f8e89cfba225c087e05643967992e\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\DragChannelManager\\TopNewGrid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_subscribe_item_bg.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\DragChannelManager\\TopNewGrid\\app\\src\\main\\res\\drawable\\subscribe_item_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\DragChannelManager\\TopNewGrid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.1.aar\\8f6f8e89cfba225c087e05643967992e\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\DragChannelManager\\TopNewGrid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.1.aar\\8f6f8e89cfba225c087e05643967992e\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\DragChannelManager\\TopNewGrid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_titlebar.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\DragChannelManager\\TopNewGrid\\app\\src\\main\\res\\drawable\\bg_titlebar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\DragChannelManager\\TopNewGrid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_channel_new.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\DragChannelManager\\TopNewGrid\\app\\src\\main\\res\\drawable-xhdpi\\channel_new.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\DragChannelManager\\TopNewGrid\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_icon_background.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.1.aar\\8f6f8e89cfba225c087e05643967992e\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\DragChannelManager\\TopNewGrid\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\DragChannelManager\\TopNewGrid\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\DragChannelManager\\TopNewGrid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.1.aar\\8f6f8e89cfba225c087e05643967992e\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\DragChannelManager\\TopNewGrid\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.1.aar\\8f6f8e89cfba225c087e05643967992e\\res\\layout\\notification_template_custom_big.xml"
+    }
+]

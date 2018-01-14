@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sun Jan 14 18:39:40 CST 2018
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\Administrator\\Desktop\\DragChannelManager\\TopNewGrid\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1

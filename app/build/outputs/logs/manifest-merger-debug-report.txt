@@ -1,22 +1,53 @@
 -- Merging decision tree log ---
 manifest
 ADDED from C:\Users\Administrator\Desktop\DragChannelManager\TopNewGrid\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\Administrator\Desktop\DragChannelManager\TopNewGrid\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\Administrator\Desktop\DragChannelManager\TopNewGrid\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\Administrator\Desktop\DragChannelManager\TopNewGrid\app\src\main\AndroidManifest.xml:2:1-34:12
+MERGED from [com.android.support:support-v4:27.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.1.aar\daa9f86468a69932aee0aab5e53ee4c4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.1.aar\351369e7db3c4e4035478980e9c9dd92\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.1.aar\0b998e42d588a2461bd5be51f6032818\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.1.aar\0787634d32e980546c0ac55cec07b26e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.1.aar\fe20afbd1debe25eb9e007310ce852dd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.1.aar\8f6f8e89cfba225c087e05643967992e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\75d61460ec57a5c9b14a25da5d5d97bd\AndroidManifest.xml:17:1-30:12
+INJECTED from C:\Users\Administrator\Desktop\DragChannelManager\TopNewGrid\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\Administrator\Desktop\DragChannelManager\TopNewGrid\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\Administrator\Desktop\DragChannelManager\TopNewGrid\app\src\main\AndroidManifest.xml:2:1-34:12
 	package
-		ADDED from C:\Users\Administrator\Desktop\DragChannelManager\TopNewGrid\app\src\main\AndroidManifest.xml:3:5-37
+		ADDED from C:\Users\Administrator\Desktop\DragChannelManager\TopNewGrid\app\src\main\AndroidManifest.xml:3:5-38
 		INJECTED from C:\Users\Administrator\Desktop\DragChannelManager\TopNewGrid\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Administrator\Desktop\DragChannelManager\TopNewGrid\app\src\main\AndroidManifest.xml
 	android:versionName
 		ADDED from C:\Users\Administrator\Desktop\DragChannelManager\TopNewGrid\app\src\main\AndroidManifest.xml:5:5-30
 		INJECTED from C:\Users\Administrator\Desktop\DragChannelManager\TopNewGrid\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Administrator\Desktop\DragChannelManager\TopNewGrid\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Administrator\Desktop\DragChannelManager\TopNewGrid\app\src\main\AndroidManifest.xml:2:11-69
 	android:versionCode
 		ADDED from C:\Users\Administrator\Desktop\DragChannelManager\TopNewGrid\app\src\main\AndroidManifest.xml:4:5-28
 		INJECTED from C:\Users\Administrator\Desktop\DragChannelManager\TopNewGrid\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Administrator\Desktop\DragChannelManager\TopNewGrid\app\src\main\AndroidManifest.xml
-	xmlns:android
-		ADDED from C:\Users\Administrator\Desktop\DragChannelManager\TopNewGrid\app\src\main\AndroidManifest.xml:2:11-69
 uses-sdk
 ADDED from C:\Users\Administrator\Desktop\DragChannelManager\TopNewGrid\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\Administrator\Desktop\DragChannelManager\TopNewGrid\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\Administrator\Desktop\DragChannelManager\TopNewGrid\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:27.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.1.aar\daa9f86468a69932aee0aab5e53ee4c4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.1.aar\daa9f86468a69932aee0aab5e53ee4c4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.1.aar\351369e7db3c4e4035478980e9c9dd92\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.1.aar\351369e7db3c4e4035478980e9c9dd92\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.1.aar\0b998e42d588a2461bd5be51f6032818\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.1.aar\0b998e42d588a2461bd5be51f6032818\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.1.aar\0787634d32e980546c0ac55cec07b26e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.1.aar\0787634d32e980546c0ac55cec07b26e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.1.aar\fe20afbd1debe25eb9e007310ce852dd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.1.aar\fe20afbd1debe25eb9e007310ce852dd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.1.aar\8f6f8e89cfba225c087e05643967992e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.1.aar\8f6f8e89cfba225c087e05643967992e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\75d61460ec57a5c9b14a25da5d5d97bd\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\75d61460ec57a5c9b14a25da5d5d97bd\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\Administrator\Desktop\DragChannelManager\TopNewGrid\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\Administrator\Desktop\DragChannelManager\TopNewGrid\app\src\main\AndroidManifest.xml:7:5-9:41
 	android:targetSdkVersion
 		ADDED from C:\Users\Administrator\Desktop\DragChannelManager\TopNewGrid\app\src\main\AndroidManifest.xml:9:9-38
 		INJECTED from C:\Users\Administrator\Desktop\DragChannelManager\TopNewGrid\app\src\main\AndroidManifest.xml
@@ -27,22 +58,24 @@ ADDED from C:\Users\Administrator\Desktop\DragChannelManager\TopNewGrid\app\src\
 		INJECTED from C:\Users\Administrator\Desktop\DragChannelManager\TopNewGrid\app\src\main\AndroidManifest.xml
 application
 ADDED from C:\Users\Administrator\Desktop\DragChannelManager\TopNewGrid\app\src\main\AndroidManifest.xml:11:5-26:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\75d61460ec57a5c9b14a25da5d5d97bd\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\75d61460ec57a5c9b14a25da5d5d97bd\AndroidManifest.xml:24:5-28:19
 	android:label
 		ADDED from C:\Users\Administrator\Desktop\DragChannelManager\TopNewGrid\app\src\main\AndroidManifest.xml:15:9-41
-	android:allowBackup
-		ADDED from C:\Users\Administrator\Desktop\DragChannelManager\TopNewGrid\app\src\main\AndroidManifest.xml:13:9-35
 	android:icon
 		ADDED from C:\Users\Administrator\Desktop\DragChannelManager\TopNewGrid\app\src\main\AndroidManifest.xml:14:9-45
+	android:allowBackup
+		ADDED from C:\Users\Administrator\Desktop\DragChannelManager\TopNewGrid\app\src\main\AndroidManifest.xml:13:9-35
 	android:theme
 		ADDED from C:\Users\Administrator\Desktop\DragChannelManager\TopNewGrid\app\src\main\AndroidManifest.xml:16:9-40
 	android:name
-		ADDED from C:\Users\Administrator\Desktop\DragChannelManager\TopNewGrid\app\src\main\AndroidManifest.xml:12:9-65
-activity#com.example.topnewgrid.ChannelActivity
+		ADDED from C:\Users\Administrator\Desktop\DragChannelManager\TopNewGrid\app\src\main\AndroidManifest.xml:12:9-66
+activity#com.whatshappen.topgrid.ChannelActivity
 ADDED from C:\Users\Administrator\Desktop\DragChannelManager\TopNewGrid\app\src\main\AndroidManifest.xml:17:9-25:20
 	android:label
 		ADDED from C:\Users\Administrator\Desktop\DragChannelManager\TopNewGrid\app\src\main\AndroidManifest.xml:19:13-45
 	android:name
-		ADDED from C:\Users\Administrator\Desktop\DragChannelManager\TopNewGrid\app\src\main\AndroidManifest.xml:18:13-66
+		ADDED from C:\Users\Administrator\Desktop\DragChannelManager\TopNewGrid\app\src\main\AndroidManifest.xml:18:13-67
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
 ADDED from C:\Users\Administrator\Desktop\DragChannelManager\TopNewGrid\app\src\main\AndroidManifest.xml:20:13-24:29
 action#android.intent.action.MAIN
@@ -54,7 +87,7 @@ ADDED from C:\Users\Administrator\Desktop\DragChannelManager\TopNewGrid\app\src\
 	android:name
 		ADDED from C:\Users\Administrator\Desktop\DragChannelManager\TopNewGrid\app\src\main\AndroidManifest.xml:23:27-74
 uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
-ADDED from C:\Users\Administrator\Desktop\DragChannelManager\TopNewGrid\app\src\main\AndroidManifest.xml:29:5-84
+ADDED from C:\Users\Administrator\Desktop\DragChannelManager\TopNewGrid\app\src\main\AndroidManifest.xml:29:5-83
 	android:name
 		ADDED from C:\Users\Administrator\Desktop\DragChannelManager\TopNewGrid\app\src\main\AndroidManifest.xml:29:22-81
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
@@ -65,3 +98,9 @@ uses-permission#android.permission.VIBRATE
 ADDED from C:\Users\Administrator\Desktop\DragChannelManager\TopNewGrid\app\src\main\AndroidManifest.xml:33:5-65
 	android:name
 		ADDED from C:\Users\Administrator\Desktop\DragChannelManager\TopNewGrid\app\src\main\AndroidManifest.xml:33:22-63
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\75d61460ec57a5c9b14a25da5d5d97bd\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\75d61460ec57a5c9b14a25da5d5d97bd\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\75d61460ec57a5c9b14a25da5d5d97bd\AndroidManifest.xml:26:13-58

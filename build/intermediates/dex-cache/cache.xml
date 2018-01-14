@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\SDK\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\Administrator\Desktop\DragChannelManager\TopNewGrid\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_20adbb8c14194ee9cfee9aadddac1b3e5be8cc53.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/rl_subscribe"
+    android:layout_width="match_parent"
+    android:descendantFocusability="blocksDescendants"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:id="@+id/text_item"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="8dp"
+        android:background="@drawable/subscribe_item_bg"
+        android:gravity="center"
+        android:paddingBottom="5dp"
+        android:paddingTop="5dp"
+        android:text="轻松一刻"
+        android:textColor="@color/subscribe_item_text_color"
+        android:textSize="13.0sp" />
+
+    <RelativeLayout
+        android:id="@+id/ri_delete"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/item_delecte_shape"
+        android:clickable="true"
+        android:focusable="false"
+        android:padding="4dp"
+        android:visibility="invisible">
+
+        <ImageView
+            android:layout_width="9dp"
+            android:layout_height="9dp"
+            android:layout_centerInParent="true"
+            android:background="@drawable/a9x" />
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/icon_new"
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:layout_alignParentRight="true"
+        android:background="@drawable/a_l"
+        android:visibility="gone"/>
+
+</RelativeLayout>

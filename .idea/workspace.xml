@@ -16,202 +16,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="05e5b348-459b-48b1-977b-6553a630dd99" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/classAnalysis.bin" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_core_common_1_0_0_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_core_utils_27_0_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi-v2/values-ar.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi-v2/values-es-rUS.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi-v2/values-fr.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi-v2/values-hi.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi-v2/values-ja.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi-v2/values-mk.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi-v2/values-ml.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi-v2/values-pt-rPT.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi-v2/values-pt.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi-v2/values-ro.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi-v2/values-te.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi-v2/values-th.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi-v2/values-uz.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi-v2/values-zh-rCN.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/compat/R$style.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/compat/R.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/coreui/R$styleable.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/fragment/R$color.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/fragment/R$styleable.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/mediacompat/R$attr.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/mediacompat/R$bool.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/mediacompat/R$drawable.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v4/R$color.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v4/R$dimen.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v4/R$layout.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/whatshappen/topgrid/ChannelActivity$5.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/whatshappen/topgrid/ChannelActivity.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/whatshappen/topgrid/R$attr.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/whatshappen/topgrid/R$bool.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/whatshappen/topgrid/db/SQLHelper.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/whatshappen/topgrid/view/DragGrid$2.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/support-compat/27.0.1/R.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/support-compat/27.0.1/res/drawable-hdpi-v4/notification_bg_low_pressed.9.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/support-compat/27.0.1/res/drawable-mdpi-v4/notification_bg_low_normal.9.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/support-compat/27.0.1/res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/support-compat/27.0.1/res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/support-compat/27.0.1/res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/support-compat/27.0.1/res/drawable/notification_tile_bg.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/support-compat/27.0.1/res/values-am/values-am.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/support-compat/27.0.1/res/values-ar/values-ar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/support-compat/27.0.1/res/values-be/values-be.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/support-compat/27.0.1/res/values-ca/values-ca.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/support-compat/27.0.1/res/values-cs/values-cs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/support-compat/27.0.1/res/values-hr/values-hr.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/support-compat/27.0.1/res/values-in/values-in.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/support-compat/27.0.1/res/values-iw/values-iw.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/support-compat/27.0.1/res/values-ja/values-ja.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/support-compat/27.0.1/res/values-kk/values-kk.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/support-compat/27.0.1/res/values-port/values-port.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/support-compat/27.0.1/res/values-th/values-th.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/support-compat/27.0.1/res/values-zu/values-zu.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/27.0.1/AndroidManifest.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/27.0.1/proguard.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/support-fragment/27.0.1/R.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/27.0.1/aidl/android/support/v4/media/RatingCompat.aidl" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/27.0.1/res/layout/notification_media_cancel_action.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/27.0.1/res/layout/notification_template_big_media_narrow.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/27.0.1/res/values-v21/values-v21.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/support-v4/27.0.1/AndroidManifest.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/support-v4/27.0.1/R.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/support-v4/27.0.1/jars/classes.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/A3mqQb5t1I87AyxQgPiK3RgvcBs=" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/G1Q3esSTl0bBimRkZd4gmjVnWw4=" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJniLibs/zip-cache/huLpbFNPuwdHVtHHgrJwuAKdncI=" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-bn/values-bn.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ca/values-ca.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-cs/values-cs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rGB/values-en-rGB.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fr-rCA/values-fr-rCA.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hi/values-hi.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-in/values-in.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-is/values-is.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ja/values-ja.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-kk/values-kk.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ml/values-ml.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-tl/values-tl.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v21/values-v21.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-vi/values-vi.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zu/values-zu.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/color_btn_common_text.xml.flat" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xxhdpi_a9x.png.flat" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xxhdpi_a_u.png.flat" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout-v21_notification_template_icon_group.xml.flat" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_notification_media_cancel_action.xml.flat" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_notification_template_big_media_narrow_custom.xml.flat" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_notification_template_part_chronometer.xml.flat" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_notification_template_part_time.xml.flat" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-bg_values-bg.arsc.flat" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-en-rAU_values-en-rAU.arsc.flat" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-fr-rCA_values-fr-rCA.arsc.flat" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-kn_values-kn.arsc.flat" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-ms_values-ms.arsc.flat" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-pt-rPT_values-pt-rPT.arsc.flat" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-tl_values-tl.arsc.flat" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/splits-support/debug/apk-list/apk-list.gson" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/10/android/support/compat/R$drawable.dex" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/10/android/support/compat/R$layout.dex" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/10/android/support/coreui/R$drawable.dex" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/10/android/support/coreui/R$integer.dex" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/10/android/support/coreui/R$layout.dex" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/10/android/support/coreui/R$style.dex" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/10/android/support/coreui/R$styleable.dex" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/10/android/support/coreutils/R$bool.dex" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/10/android/support/coreutils/R$color.dex" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/10/android/support/coreutils/R.dex" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/10/android/support/fragment/R$drawable.dex" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/10/android/support/mediacompat/R$color.dex" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/10/android/support/mediacompat/R$layout.dex" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/10/android/support/mediacompat/R$styleable.dex" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/10/android/support/v4/R$drawable.dex" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/10/android/support/v4/R$style.dex" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/10/com/whatshappen/topgrid/ChannelActivity$1$1.dex" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/10/com/whatshappen/topgrid/ChannelActivity$3.dex" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/10/com/whatshappen/topgrid/R$layout.dex" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/5.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/mergeJavaRes/debug/0.jar" />
-      <change beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshots.bin" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-xxhdpi-v4.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/topnewgrid/BuildConfig.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/topnewgrid/ChannelActivity$1$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/topnewgrid/ChannelActivity$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/topnewgrid/bean/ChannelItem.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/debug_853bb9f2167f0f306cc61ce94c8e861a19b5381b.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/debug_853bb9f2167f0f306cc61ce94c8e861a19b5381b.jar" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xxhdpi/a_u.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/menu/main.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/resources-debug.ap_" afterPath="$PROJECT_DIR$/app/build/intermediates/res/resources-debug.ap_" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_1ngp8lzdhzr7cvuiyifent347/android/support/v4/accessibilityservice/AccessibilityServiceInfoCompat$AccessibilityServiceInfoVersionImpl.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_1ngp8lzdhzr7cvuiyifent347/android/support/v4/app/ActionBarDrawerToggle$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_1ngp8lzdhzr7cvuiyifent347/android/support/v4/app/ActionBarDrawerToggle$ActionBarDrawerToggleImpl.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_1ngp8lzdhzr7cvuiyifent347/android/support/v4/app/ActionBarDrawerToggle.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_1ngp8lzdhzr7cvuiyifent347/android/support/v4/app/DialogFragment.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_1ngp8lzdhzr7cvuiyifent347/android/support/v4/app/Fragment$InstantiationException.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_1ngp8lzdhzr7cvuiyifent347/android/support/v4/app/Fragment.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_1ngp8lzdhzr7cvuiyifent347/android/support/v4/app/FragmentContainer.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_1ngp8lzdhzr7cvuiyifent347/android/support/v4/app/FragmentManagerImpl$3.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_1ngp8lzdhzr7cvuiyifent347/android/support/v4/app/FragmentState$1.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_1ngp8lzdhzr7cvuiyifent347/android/support/v4/app/FragmentStatePagerAdapter.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_1ngp8lzdhzr7cvuiyifent347/android/support/v4/app/FragmentTabHost$DummyTabFactory.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_1ngp8lzdhzr7cvuiyifent347/android/support/v4/app/NavUtils$NavUtilsImplJB.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_1ngp8lzdhzr7cvuiyifent347/android/support/v4/app/NotificationCompat$InboxStyle.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_1ngp8lzdhzr7cvuiyifent347/android/support/v4/app/NotificationCompat$NotificationCompatImpl.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_1ngp8lzdhzr7cvuiyifent347/android/support/v4/app/NotificationCompat$NotificationCompatImplHoneycomb.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_1ngp8lzdhzr7cvuiyifent347/android/support/v4/app/NotificationCompatHoneycomb.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_1ngp8lzdhzr7cvuiyifent347/android/support/v4/app/TaskStackBuilder$SupportParentable.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_1ngp8lzdhzr7cvuiyifent347/android/support/v4/app/TaskStackBuilder$TaskStackBuilderImplBase.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_1ngp8lzdhzr7cvuiyifent347/android/support/v4/content/AsyncTaskLoader.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_1ngp8lzdhzr7cvuiyifent347/android/support/v4/content/ContextCompatJellybean.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_1ngp8lzdhzr7cvuiyifent347/android/support/v4/content/FileProvider$PathStrategy.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_1ngp8lzdhzr7cvuiyifent347/android/support/v4/content/IntentCompat$IntentCompatImpl.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_1ngp8lzdhzr7cvuiyifent347/android/support/v4/content/Loader$ForceLoadContentObserver.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_1ngp8lzdhzr7cvuiyifent347/android/support/v4/content/ModernAsyncTask$3.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_1ngp8lzdhzr7cvuiyifent347/android/support/v4/content/pm/ActivityInfoCompat.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_1ngp8lzdhzr7cvuiyifent347/android/support/v4/hardware/display/DisplayManagerCompat$LegacyImpl.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_1ngp8lzdhzr7cvuiyifent347/android/support/v4/net/ConnectivityManagerCompat$JellyBeanConnectivityManagerCompatImpl.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_1ngp8lzdhzr7cvuiyifent347/android/support/v4/net/TrafficStatsCompat$TrafficStatsCompatImpl.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_1ngp8lzdhzr7cvuiyifent347/android/support/v4/os/ParcelableCompat.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_1ngp8lzdhzr7cvuiyifent347/android/support/v4/text/ICUCompatIcs.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_1ngp8lzdhzr7cvuiyifent347/android/support/v4/text/TextDirectionHeuristicsCompat$TextDirectionHeuristicInternal.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_1ngp8lzdhzr7cvuiyifent347/android/support/v4/text/TextDirectionHeuristicsCompat.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_1ngp8lzdhzr7cvuiyifent347/android/support/v4/text/TextUtilsCompat.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_1ngp8lzdhzr7cvuiyifent347/android/support/v4/util/LogWriter.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_1ngp8lzdhzr7cvuiyifent347/android/support/v4/view/AccessibilityDelegateCompat$AccessibilityDelegateJellyBeanImpl.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_1ngp8lzdhzr7cvuiyifent347/android/support/v4/view/ActionProvider.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_1ngp8lzdhzr7cvuiyifent347/android/support/v4/view/GravityCompat$GravityCompatImplBase.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_1ngp8lzdhzr7cvuiyifent347/android/support/v4/view/MenuItemCompat$IcsMenuVersionImpl.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_1ngp8lzdhzr7cvuiyifent347/android/support/v4/view/MotionEventCompat$BaseMotionEventVersionImpl.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_1ngp8lzdhzr7cvuiyifent347/android/support/v4/view/PagerTitleStrip$PagerTitleStripImpl.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_1ngp8lzdhzr7cvuiyifent347/android/support/v4/view/PagerTitleStripIcs.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_1ngp8lzdhzr7cvuiyifent347/android/support/v4/view/ViewCompat$HCViewCompatImpl.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_1ngp8lzdhzr7cvuiyifent347/android/support/v4/view/ViewCompatHC.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_1ngp8lzdhzr7cvuiyifent347/android/support/v4/view/ViewConfigurationCompat$FroyoViewConfigurationVersionImpl.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_1ngp8lzdhzr7cvuiyifent347/android/support/v4/view/ViewGroupCompat$ViewGroupCompatImpl.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_1ngp8lzdhzr7cvuiyifent347/android/support/v4/view/ViewGroupCompatHC.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_1ngp8lzdhzr7cvuiyifent347/android/support/v4/view/ViewPager$SimpleOnPageChangeListener.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_1ngp8lzdhzr7cvuiyifent347/android/support/v4/view/accessibility/AccessibilityEventCompat$AccessibilityEventIcsImpl.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_1ngp8lzdhzr7cvuiyifent347/android/support/v4/view/accessibility/AccessibilityNodeInfoCompat$AccessibilityNodeInfoJellybeanImpl.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_1ngp8lzdhzr7cvuiyifent347/android/support/v4/view/accessibility/AccessibilityNodeProviderCompatJellyBean.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_1ngp8lzdhzr7cvuiyifent347/android/support/v4/widget/DrawerLayout$DrawerListener.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_1ngp8lzdhzr7cvuiyifent347/android/support/v4/widget/EdgeEffectCompat$EdgeEffectIcsImpl.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_1ngp8lzdhzr7cvuiyifent347/android/support/v4/widget/ScrollerCompat$ScrollerCompatImpl.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_1ngp8lzdhzr7cvuiyifent347/android/support/v4/widget/SearchViewCompat$OnCloseListenerCompat.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_1ngp8lzdhzr7cvuiyifent347/android/support/v4/widget/SlidingPaneLayout$SavedState.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_1ngp8lzdhzr7cvuiyifent347/android/support/v4/widget/SlidingPaneLayout.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/expandedArchives/support-v4-18.0.0.jar_1ngp8lzdhzr7cvuiyifent347/android/support/v4/widget/ViewDragHelper.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/topnewgrid/adapter/OtherAdapter.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/topnewgrid/bean/ChannelManage.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/topnewgrid/view/DragGrid.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="$PROJECT_DIR$/build/classes/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -2336,10 +2145,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="Scratches" />
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -2377,6 +2184,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -2600,7 +2409,14 @@
       <option name="project" value="LOCAL" />
       <updated>1515926513795</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="提交栏目管理">
+      <created>1515927624054</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1515927624054</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TodoView">
@@ -2615,21 +2431,22 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.32933104" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32933104" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.077186964" sideWeight="0.5121951" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.077186964" sideWeight="0.5152439" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.087478556" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.077186964" sideWeight="0.4878049" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.077186964" sideWeight="0.4847561" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.04631218" sideWeight="0.49695122" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2339939" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.44939965" sideWeight="0.49390244" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292683" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Device File Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292683" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
@@ -2641,7 +2458,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Assistant" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292683" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.44939965" sideWeight="0.49390244" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.02915952" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -2655,7 +2471,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="提交代码" />
     <MESSAGE value="添加说明" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加说明" />
+    <MESSAGE value="提交栏目管理" />
+    <option name="LAST_COMMIT_MESSAGE" value="提交栏目管理" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />

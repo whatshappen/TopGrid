@@ -164,7 +164,7 @@ public class DragAdapter extends BaseAdapter {
     }
 
     /**
-     * 拖动变更频道排序 测试
+     * 拖动变更频道排序
      */
     public void exchange(int dragPostion, int dropPostion) {
         holdPosition = dropPostion;

@@ -6,7 +6,8 @@
 
 ## 使用  
 可拖拽的GridView：  
-    `<com.whatshappen.topnewgrid.view.DragGrid
+    <pre><code>
+<com.whatshappen.topgrid.view.DragGrid<\br>
                 android:id="@+id/userGridView"
                 android:layout_width="fill_parent"
                 android:layout_height="wrap_content"
@@ -18,9 +19,12 @@
                 android:numColumns="4"
                 android:scrollbars="vertical"
                 android:stretchMode="columnWidth"
-                android:verticalSpacing="14.0px" />`
+                android:verticalSpacing="14.0px" />
+
+</code></pre>
 不可拖拽的GridView：  
-    `<com.example.topnewgrid.view.OtherGridView
+	<pre><code>
+	<com.whatshappen.topgrid.view.OtherGridView
                     android:id="@+id/otherGridView"
                     android:layout_width="fill_parent"
                     android:layout_height="wrap_content"
@@ -32,11 +36,13 @@
                     android:numColumns="4"
                     android:scrollbars="vertical"
                     android:stretchMode="columnWidth"
-                    android:verticalSpacing="14.0px" />`
+                    android:verticalSpacing="14.0px" />
+
+</code></pre>
 
 ## 实现效果
 ![](https://github.com/whatshappen/TopGrid/blob/master/screenshots/demo.gif)  
 
-在此要感谢[http://blog.csdn.net/vipzjyno1/article/details/25005851](http://blog.csdn.net/vipzjyno1/article/details/25005851 "vipra")，此项目是在这个项目基础上修改的。
+在此要感谢[vipra](http://blog.csdn.net/vipzjyno1/article/details/25005851](http://blog.csdn.net/vipzjyno1/article/details/25005851)，此项目是在这个项目基础上修改的。
 ## License
-Licensed under the [http://www.apache.org/licenses/LICENSE-2.0.html](http://www.apache.org/licenses/LICENSE-2.0.html "Apache License, Version 2.0")
+Licensed under the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0.html)

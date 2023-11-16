@@ -1,0 +1,23 @@
+name: Build and Release
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v2
+
+    - name: Set up JDK
+      uses: actions/setup-java@v2
+      with:
+        distribution: 'adopt'
+        java-version: '11'  # 指定 JDK 版本，可以是 '8', '11', '16' 等
+
+    - name: Build with Gradle
+      run: ./gradlew assembleRelease
